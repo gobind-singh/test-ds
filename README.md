@@ -14,3 +14,6 @@ amzn.mws.d8f2d-6a5f-b46293482379
 -----BEGIN PRIVATE KEY-----
 
 aws_secret_access_key=asd12312323
+
+
+-----BEGIN PRIVATE KEY-----
