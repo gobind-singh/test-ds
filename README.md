@@ -24,3 +24,4 @@ aws_secret_access_key=asd12312323asd87786
 aws_secret_access_key=asd12312323asd87786asds
 
 aws_secret_access_key=asd12312323asd87786asdsasdasd
+-----BEGIN PRIVATE KEY-----
